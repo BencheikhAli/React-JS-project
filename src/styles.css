@@ -1,0 +1,19 @@
+.App {
+    width: 900px;
+    margin: 0 auto;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background: #2b2b2b;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .react {
+    color: #61dafb;
+  }
+  .react::after {
+    content: "⚛️";
+  }
+  
